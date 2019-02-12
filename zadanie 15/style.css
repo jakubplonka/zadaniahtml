@@ -1,3 +1,29 @@
 #about-us {
     background-color: #ffcc55;
 }
+
+#skills div {
+    width: 100px;
+    height: 100px;
+    display: 
+}
+
+.numer1 {
+    background-color: #111;
+    display: inline-block;
+}
+
+.numer2 {
+    background-color: #222;
+    display: inline-block;
+}
+
+.numer3 {
+    background-color: #333;
+    display: inline-block;
+}
+
+.numer4 {
+    background-color: #444;
+    display: inline-block;
+}
