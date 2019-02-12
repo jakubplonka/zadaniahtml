@@ -2,6 +2,25 @@
     background-color: #ffcc55;
 }
 
+a:link, a:visited {
+    text-decoration: none;
+}
+
+.links{
+    display: list-item;
+}
+.links :nth-child(1){
+    color: #fac544;
+}
+.links :nth-child(2){
+    color: #f45134;
+}
+.links :nth-child(3){
+    color: #ff44aa;
+}
+.links :nth-child(4){
+    color: #ff3224;
+}
 #skills div {
     width: 100px;
     height: 100px;
