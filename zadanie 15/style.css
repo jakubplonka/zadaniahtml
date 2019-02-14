@@ -58,3 +58,10 @@ a:link, a:visited {
 .portfolio3 {
     border: 2px solid #0022aa
 }
+
+input[type=button] {
+    width: 100px;
+    height: 50px;
+    color: #002266;
+    background-color: #ffb;
+}
